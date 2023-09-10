@@ -1,4 +1,4 @@
-# repositorioPersonas
+# Proyecto repositorio de personas
 Repositorio de gestión de personas
 
 Ese proyecto fue desarrollado para gestionar las personas de un sitio.
